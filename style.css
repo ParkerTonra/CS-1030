@@ -3,6 +3,14 @@ html, body {
   width: 100%;
 }
 
+img.gif2{
+  width: 300px;
+  height: auto;
+}
+
+
+
+
 img.animated-gif{
   width: 300px;
   height: auto;
