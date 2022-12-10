@@ -1,1 +1,54 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
 
+img.animated-gif{
+  width: 300px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.welcome {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  head-align: center
+  
+}
+
+.container {
+  background: url("https://i.imgur.com/CBModfA.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 1600px;
+  width: 800px;
+  margin: auto;
+}
+@font-face {
+    font-family: myFirstFont;
+    src: url(COMIC.TTF);
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.huge-text {
+  font-family: Helvetica;
+  font-size: 3rem;
+  
+}
+
+.big-text {font-size: 2rem;
+          }
+
+.other-text {font-size: 2rem;
+             font-family:  myFirstFont
+          }
+
+https://i.imgur.com/CBModfA.png
